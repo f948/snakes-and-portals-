@@ -2,6 +2,8 @@
 
 Description-A twist on the classic snakes and ladders game in which players must roll a die to determine how many steps they can move ahead. However, snakes and portals has portals which ensure that if a player lands on one end of the portal they will instantly get transported to the other portal.
 
+Video demonstration avaliable at https://www.youtube.com/watch?v=QYYylWw10T8
+
 # Required
 
 A web browser to run the html file.
